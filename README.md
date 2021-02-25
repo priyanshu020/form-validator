@@ -5,3 +5,5 @@
 This project is created with HTML forms and provided functionalities with JavaScript i.e, to check required or check the length, check to see if passwords match, and also the errors and values are color-coded.
   
 ## Deployment
+
+https://your-form-validator.netlify.app/
